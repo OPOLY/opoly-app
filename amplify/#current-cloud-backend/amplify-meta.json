@@ -1,0 +1,38 @@
+{
+	"providers": {
+		"awscloudformation": {
+			"AuthRoleName": "amplify-opoly-dev-152834-authRole",
+			"UnauthRoleArn": "arn:aws:iam::205005988321:role/amplify-opoly-dev-152834-unauthRole",
+			"AuthRoleArn": "arn:aws:iam::205005988321:role/amplify-opoly-dev-152834-authRole",
+			"Region": "ap-southeast-2",
+			"DeploymentBucketName": "amplify-opoly-dev-152834-deployment",
+			"UnauthRoleName": "amplify-opoly-dev-152834-unauthRole",
+			"StackName": "amplify-opoly-dev-152834",
+			"StackId": "arn:aws:cloudformation:ap-southeast-2:205005988321:stack/amplify-opoly-dev-152834/a376fb60-b501-11ea-bd9c-0ad2fa41fde2",
+			"AmplifyAppId": "d1f6uhtmxo8yjy"
+		}
+	},
+	"auth": {
+		"opolyc11b078a": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false,
+			"providerMetadata": {
+				"s3TemplateURL": "https://s3.amazonaws.com/amplify-opoly-dev-152834-deployment/amplify-cfn-templates/auth/opolyc11b078a-cloudformation-template.yml",
+				"logicalId": "authopolyc11b078a"
+			},
+			"lastPushTimeStamp": "2020-06-23T03:37:40.072Z",
+			"output": {
+				"AppClientSecret": "1viaqgbc1kudcgndctih3k4o1thi2vkji0jmfej304f9of62tr6e",
+				"UserPoolId": "ap-southeast-2_tLV3eNDUY",
+				"AppClientIDWeb": "2mrvo6bh92ov311dod4mdilg0a",
+				"AppClientID": "1e367r5fuc4o57j4ed0k54dq2q",
+				"IdentityPoolId": "ap-southeast-2:cd6e9b46-bf57-4555-8f17-1a2c0aec8525",
+				"IdentityPoolName": "opolyc11b078a_identitypool_c11b078a__dev",
+				"UserPoolName": "opolyc11b078a_userpool_c11b078a"
+			},
+			"lastPushDirHash": "OM1/kiz352dr10i79G+f8bW6Mg8="
+		}
+	}
+}

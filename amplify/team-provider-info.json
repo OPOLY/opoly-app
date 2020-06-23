@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-opoly-dev-152834-authRole",
+            "UnauthRoleArn": "arn:aws:iam::205005988321:role/amplify-opoly-dev-152834-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::205005988321:role/amplify-opoly-dev-152834-authRole",
+            "Region": "ap-southeast-2",
+            "DeploymentBucketName": "amplify-opoly-dev-152834-deployment",
+            "UnauthRoleName": "amplify-opoly-dev-152834-unauthRole",
+            "StackName": "amplify-opoly-dev-152834",
+            "StackId": "arn:aws:cloudformation:ap-southeast-2:205005988321:stack/amplify-opoly-dev-152834/a376fb60-b501-11ea-bd9c-0ad2fa41fde2",
+            "AmplifyAppId": "d1f6uhtmxo8yjy"
+        },
+        "categories": {
+            "auth": {
+                "opolyc11b078a": {}
+            }
+        }
+    }
+}

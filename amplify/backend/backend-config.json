@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"opolyc11b078a": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
